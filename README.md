@@ -15,10 +15,10 @@ En este curso, aprenderemos Python utilizando [Jupyter](https://jupyter.org/) No
 
 ## Instructora
 
-[Dra. Leticia Vega Alvarado](https://www.icat.unam.mx/dra-leticia-vega-alvarado/), del Instituto de Ciencias Aplicadas y Tecnología de la UNAM. Leticia Vega es insltructora certificada de Carpentry(https://carpentries.org/community/instructors/).
+[Dra. Leticia Vega Alvarado](https://www.icat.unam.mx/dra-leticia-vega-alvarado/), insltructora certificada de Carpentry(https://carpentries.org/community/instructors/).
 
 email: leticia.vega@icat.unam.mx
 
 ## Descarga de los apuntes del curso
 
-Para descargar los apuntes
+Para descargar los apuntes del curso, dar click en el botón Code>Download

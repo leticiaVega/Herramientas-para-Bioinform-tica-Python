@@ -11,3 +11,9 @@ Python es un lenguaje ampliamente utilizado en diferentes áreas de investigaci�
 ### Instalando jupyter
 En este curso, aprenderemos Python utilizando Jupyter Notebook (https://jupyter.org/), un entorno de programación que se ejecuta directamente en el navegador web. Este entorno será instalado a través de Anaconda y para que funcione correctamente, necesitarás un navegador actualizado. Las versiones recientes de Chrome, Safari y Firefox son completamente compatibles, mientras que algunos navegadores más antiguos, como Internet Explorer 9 y versiones anteriores, no lo son.
 
+## Instructora de los episodios 5 a 8
+
+[Dra. Leticia Vega Alvarado](https://www.icat.unam.mx/dra-leticia-vega-alvarado/), del [Instituto de Ciencias Aplicadas y Tecnología](https://www.icat.unam.mx/) de la UNAM.
+
+email: leticia.vega@icat.unam.mx
+

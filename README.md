@@ -5,7 +5,7 @@ Apuntes de los episodios 5 a 8 de la lección ["Programming wiyth Python"](https
 
 ## Instructora
 
-[Dra. Leticia Vega Alvarado](https://www.icat.unam.mx/dra-leticia-vega-alvarado/), insltructora certificada de Carpentry(https://carpentries.org/community/instructors/).
+[Dra. Leticia Vega Alvarado](https://www.icat.unam.mx/dra-leticia-vega-alvarado/), instructora certificada de Carpentry(https://carpentries.org/community/instructors/).
 
 email: leticia.vega@icat.unam.mx
 

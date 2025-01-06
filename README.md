@@ -21,6 +21,6 @@ En este curso, aprenderemos Python utilizando [jupyter](https://jupyter.org/) no
 
 ## Descarga de los apuntes del curso
 
-Para descargar los apuntes del curso, dar click en el botón Code>Download ZIP. Una vez descargados, descomprimir el archivo .zip, entrar a la carpeta Herramientas-para-Bioinform-tica-Python-main y dar doble clic sobre el archivo Temas5_8.ipynb.
-> NOTA: Para poder visualizar los apuntes es necesario tener instalado [jupyter](https://jupyter.org/) notebook.
+Para descargar los apuntes del curso, haz clic en el botón **Code** y selecciona **Download ZIP**. Una vez descargado, descomprime el archivo .zip en el directorio de tu preferencia. Luego, ingresa a la carpeta Herramientas-para-Bioinformática-Python-main y haz doble clic sobre el archivo Temas5_8.ipynb.
+> NOTA: Para poder visualizar los apuntes, es necesario tener instalado [jupyter](https://jupyter.org/) notebook.
 

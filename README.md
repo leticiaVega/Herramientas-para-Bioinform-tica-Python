@@ -21,4 +21,4 @@ En este curso, aprenderemos Python utilizando [jupyter](https://jupyter.org/) no
 
 ## Descarga de los apuntes del curso
 
-Para descargar los apuntes del curso, dar click en el botón Code>Download
+Para descargar los apuntes del curso, dar click en el botón Code>Download ZIP. Una vez descargados, descomprimir el archivo .zip, entrar a la carpeta 
